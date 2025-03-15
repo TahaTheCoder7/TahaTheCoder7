@@ -1,4 +1,4 @@
-<h1><center><b>I am  TahaTheCoder</b></center></h1>
+<h1><center><b>I am  Taha</b></center></h1>
 ## 🚀 About Me
 Hi! I'm <b>**[TahaTheCoder]**</b>, a passionate developer who loves building innovative and scalable applications. I specialize in writing clean, efficient, and maintainable code across multiple programming languages.
 
